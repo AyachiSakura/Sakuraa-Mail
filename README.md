@@ -49,7 +49,7 @@ If you don’t want to expose your real email address publicly, you can encrypt 
 ### 🌿 Encrypt with:
 
 ```bash
-gpg -a -e -r BE4D7900948C2990 Ayachi
+gpg -a -e -r 4ADF9B44ADDB3BF4 Ayachi
 ```
 
 This will generate:
